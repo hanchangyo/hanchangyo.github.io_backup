@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tangible user interfaces | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/tangible-user-interfaces/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/tangible-user-interfaces/index.xml" rel="self" type="application/rss+xml" />
+    <description>tangible user interfaces</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>tangible user interfaces</title>
+      <link>https://hanchangyo.github.io/tag/tangible-user-interfaces/</link>
+    </image>
+    
+    <item>
+      <title>PneuModule: Using Inflatable Pin Arrays for Reconfigurable Physical Controls on Pressure-Sensitive Touch Surfaces</title>
+      <link>https://hanchangyo.github.io/publication/han-2020-pneu-module/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2020-pneu-module/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForceStamps: Fiducial Markers for Pressure-sensitive Touch Surfaces to Support Rapid Prototyping of Physical Control Interfaces</title>
+      <link>https://hanchangyo.github.io/publication/han-2020-force-stamps/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2020-force-stamps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

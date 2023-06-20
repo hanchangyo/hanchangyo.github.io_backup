@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubiquitous computing | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/ubiquitous-computing/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/ubiquitous-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>ubiquitous computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ubiquitous computing</title>
+      <link>https://hanchangyo.github.io/tag/ubiquitous-computing/</link>
+    </image>
+    
+    <item>
+      <title>Using a Dual-Camera Smartphone to Recognize Imperceptible 2D Barcodes Embedded in Videos</title>
+      <link>https://hanchangyo.github.io/publication/kakui-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/kakui-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WPT | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/wpt/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/wpt/index.xml" rel="self" type="application/rss+xml" />
+    <description>WPT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>WPT</title>
+      <link>https://hanchangyo.github.io/tag/wpt/</link>
+    </image>
+    
+    <item>
+      <title>TelemetRing</title>
+      <link>https://hanchangyo.github.io/project/telemetring/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/telemetring/</guid>
+      <description>&lt;p&gt;A wireless ring-shaped keyboard supports text entry by detecting finger typing. However, the previous wireless ring-shaped keyboard requires batteries attached to each ring device to empower the active components (e.g., wireless communication module). The bulky batteries not only make the ring uncomfortable to wear, but also require the user to charge them periodically. Thus, we present a batteryless and wireless ring-shaped keyboard using passive inductive telemetry that wirelessly senses the passive sensor coil with the inductively coupled reader coil.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

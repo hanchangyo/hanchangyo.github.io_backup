@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D printing | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/3d-printing/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D printing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3D printing</title>
+      <link>https://hanchangyo.github.io/tag/3d-printing/</link>
+    </image>
+    
+    <item>
+      <title>3D Printing Firm Inflatables with Internal Tethers</title>
+      <link>https://hanchangyo.github.io/publication/han-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BumpMarker: a 3D-printed tangible marker for simultaneous tagging, tracking, and weight measurement</title>
+      <link>https://hanchangyo.github.io/publication/han-2019-bump-marker/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2019-bump-marker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

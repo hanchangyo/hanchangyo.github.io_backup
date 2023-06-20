@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TUIs | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/tuis/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/tuis/index.xml" rel="self" type="application/rss+xml" />
+    <description>TUIs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>TUIs</title>
+      <link>https://hanchangyo.github.io/tag/tuis/</link>
+    </image>
+    
+    <item>
+      <title>PneuModule</title>
+      <link>https://hanchangyo.github.io/project/pneumodule/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/pneumodule/</guid>
+      <description>&lt;p&gt;We present PneuModule, a tangible interface platform that enables users to reconfigure physical controls on pressure-sensitive touch surfaces using pneumatically-actuated inflatable pin arrays. PneuModule consists of a main module and extension modules. The main module is tracked on the touch surface and forwards continuous inputs from attached multiple extension modules to the touch surface. Extension modules have distinct mechanisms for user input, which pneumatically actuates the inflatable pins at the bottom of the main module through internal air pipes. The main module accepts multi-dimensional inputs since each pin is individually inflated by the corresponding air chamber. Also, since the extension modules are swappable and identifiable owing to the marker design, users can quickly customize the interface layout. We contribute to design details of inflatable pins and diverse pneumatic input control design examples for PneuModule. We also showcase the feasibility of PneuModule through a series of evaluations and interactive prototypes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ForceStamps</title>
+      <link>https://hanchangyo.github.io/project/forcestamps/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/forcestamps/</guid>
+      <description>&lt;p&gt;ForceStamps are fiducial markers for supporting rapid prototyping of physical control interfaces on pressure-sensitive touch surfaces. ForceStamps can be persistently tracked on surfaces along with the force information and other attributes. Designers without knowledge of electronics can rapidly prototype physical controls by attaching mechanisms to ForceStamps, while manipulating the haptic feedback with buffer materials. The created control widgets can be spatially configured on the touch surface to make an interface layout.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

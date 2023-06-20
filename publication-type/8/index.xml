@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Changyo Han</title>
+    <link>https://hanchangyo.github.io/publication-type/8/</link>
+      <atom:link href="https://hanchangyo.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>8</title>
+      <link>https://hanchangyo.github.io/publication-type/8/</link>
+    </image>
+    
+    <item>
+      <title>Analog optical transmission system using dispersion management technique</title>
+      <link>https://hanchangyo.github.io/publication/sung-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/sung-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatuses and methods for transmitting and receiving control signal in analog radio-over-fiber (ROF)-based mobile fronthaul</title>
+      <link>https://hanchangyo.github.io/publication/cho-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/cho-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical signal transmission system and method of allocating center frequencies of intermediate frequency (IF) carriers for frequency division multiplexing (FDM) optical fiber link</title>
+      <link>https://hanchangyo.github.io/publication/han-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control apparatus and method for monitoring optical fiber link</title>
+      <link>https://hanchangyo.github.io/publication/chung-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/chung-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode division multiplexed passive optical network (MDM-PON) apparatus, and transmission and reception method using the same</title>
+      <link>https://hanchangyo.github.io/publication/chang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/chang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

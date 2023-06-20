@@ -5,7 +5,7 @@
     <link>https://hanchangyo.github.io/publication-type/1/</link>
       <atom:link href="https://hanchangyo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,355 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://hanchangyo.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hanchangyo.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>卓上と壁の間を移行する群ロボットcorobosにおけるアタッチメントの改良</title>
+      <link>https://hanchangyo.github.io/publication/nakgawa-2023-corobos/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/nakgawa-2023-corobos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Wireless Information and Power Transfer Technique Using Frequency-Modulated DC/DC Converters</title>
+      <link>https://hanchangyo.github.io/publication/zhou-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/zhou-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corobos: 卓上と壁の間を移行する群ロボット</title>
+      <link>https://hanchangyo.github.io/publication/nakagawa-2022-corobos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/nakagawa-2022-corobos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a Dual-Camera Smartphone to Recognize Imperceptible 2D Barcodes Embedded in Videos</title>
+      <link>https://hanchangyo.github.io/publication/kakui-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/kakui-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>モード選択と手指動作入力を用いた対話的なアバターのモーション制御</title>
+      <link>https://hanchangyo.github.io/publication/aramaki-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/aramaki-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>再帰透過光学素子による空中像に対する最適な鑑賞方向の変換</title>
+      <link>https://hanchangyo.github.io/publication/akashi-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/akashi-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>動画に重畳した不可視マーカの頑健な認識―デュアルカメラによる同時撮影―</title>
+      <link>https://hanchangyo.github.io/publication/kakui-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/kakui-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>遠隔の初学者と経験者が共同で電子工作を行う製作ツールの提案</title>
+      <link>https://hanchangyo.github.io/publication/yahagi-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/yahagi-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing Firm Inflatables with Internal Tethers</title>
+      <link>https://hanchangyo.github.io/publication/han-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>動画像に不可視マーカを埋め込むためのフレーム間差分に頑健な色振動方式の基礎検討</title>
+      <link>https://hanchangyo.github.io/publication/araki-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/araki-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>可視光通信プロジェクタの高画質化のための光源制御による輝度補正</title>
+      <link>https://hanchangyo.github.io/publication/kakui-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/kakui-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>映像における色振動方式不可視マーカの読み取り可能距離の拡張</title>
+      <link>https://hanchangyo.github.io/publication/tanaka-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/tanaka-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoVR: Co-located Virtual Reality Experience Sharing for Facilitating Joint Attention via Projected View of HMD Users</title>
+      <link>https://hanchangyo.github.io/publication/kamei-2020-co-vr/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/kamei-2020-co-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TelemetRing: A Batteryless and Wireless Ring-shaped Keyboard using Passive Inductive Telemetry</title>
+      <link>https://hanchangyo.github.io/publication/takahashi-2020-telemetring/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/takahashi-2020-telemetring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PneuModule: Using Inflatable Pin Arrays for Reconfigurable Physical Controls on Pressure-Sensitive Touch Surfaces</title>
+      <link>https://hanchangyo.github.io/publication/han-2020-pneu-module/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2020-pneu-module/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PneuModule: 感圧タッチパッドとインフレータブルピンアレイを用いた再構成可能な物理インタフェース</title>
+      <link>https://hanchangyo.github.io/publication/han-2020-pneu-module-interaction/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2020-pneu-module-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ワイヤレスな指輪型キーボードのバッテリレス化手法</title>
+      <link>https://hanchangyo.github.io/publication/takahashi-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/takahashi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForceStamps: Fiducial Markers for Pressure-sensitive Touch Surfaces to Support Rapid Prototyping of Physical Control Interfaces</title>
+      <link>https://hanchangyo.github.io/publication/han-2020-force-stamps/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2020-force-stamps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HMD視点映像のプロジェクタ投影によるVR体験の共有</title>
+      <link>https://hanchangyo.github.io/publication/kamei-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/kamei-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Intuitive Interface for Digital Synthesizer by Pseudo-intention Learning</title>
+      <link>https://hanchangyo.github.io/publication/shiro-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/shiro-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>映像コンテンツとロボットの連携に向けた非可聴音声への信号埋め込み 手法の検討</title>
+      <link>https://hanchangyo.github.io/publication/yamaguchi-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/yamaguchi-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth Efficient Transmission of 96 LTE-A Signals with 118-Gb/s CPRI-Equivalent Rate using 2-GHz Frequency Span and Intermixing Mitigation for Mobile Fronthaul</title>
+      <link>https://hanchangyo.github.io/publication/sung-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/sung-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Investigations of Uplink Transmission Performances in a Mobile Fronthaul based on IFoF Technique</title>
+      <link>https://hanchangyo.github.io/publication/cho-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/cho-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Dispersion-Induced Second-Order Distortion in Multi-IFoF-based Mobile Fronthaul Link for C-RAN</title>
+      <link>https://hanchangyo.github.io/publication/han-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearity Improvement of Directly-Modulated Multi-IF-over-Fibre LTE-A Mobile Fronthaul Link Using Shunt Diode Predistorter</title>
+      <link>https://hanchangyo.github.io/publication/han-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3개의 모드를 이용한 모드 분할 다중 및 파장 분할 다중 광전송</title>
+      <link>https://hanchangyo.github.io/publication/chang-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/chang-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6×6 MIMO 신호 처리를 이용한 위상 판 기반 모드 다중화기의 성능 평가</title>
+      <link>https://hanchangyo.github.io/publication/han-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Demonstrations of Next Generation Cost-Effective Mobile Fronthaul with IFoF technique</title>
+      <link>https://hanchangyo.github.io/publication/cho-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/cho-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Compensation based on Predistortion for Radio over Fiber Systems</title>
+      <link>https://hanchangyo.github.io/publication/najarro-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/najarro-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Comparison of the Multi-IF Carrier Generation Methods in IF-over-Fiber System Using LTE Signals</title>
+      <link>https://hanchangyo.github.io/publication/han-2014-a/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of rotational misalignment in phase-plate based mode multiplexer</title>
+      <link>https://hanchangyo.github.io/publication/han-2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigaitons of EVM Performance Degradations caused by Nonlienarity in Mobile Fronthaul Architecture based on IFoF technology</title>
+      <link>https://hanchangyo.github.io/publication/cho-2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/cho-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of RoF based Mobile Fronthaul Link with Multi-IF Carrier for LTE/LTE-A Signal Transmission</title>
+      <link>https://hanchangyo.github.io/publication/chung-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/chung-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DP-16QAM과 4x4 MIMO 신호처리를 이용한 모드분할다중화 광 송수신 실험</title>
+      <link>https://hanchangyo.github.io/publication/chung-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/chung-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위상 판을 이용한 모드 다중화기의 구현</title>
+      <link>https://hanchangyo.github.io/publication/han-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Channel Misalignment of Time-interleaved DAC on Sensitivity Degradation in Coherent Optical Receivers</title>
+      <link>https://hanchangyo.github.io/publication/han-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Polarization-diversity Scheme Based on Mutual Phase Conjugation for Fiber-nonlinearity Mitigation in Ultra-long Coherent Optical Transmission Systems</title>
+      <link>https://hanchangyo.github.io/publication/lu-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/lu-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelength Demultiplexing of Nyquist WDM Signals under Large Frequency Offsets in Digital Coherent Receivers</title>
+      <link>https://hanchangyo.github.io/publication/mori-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/mori-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ナイキストWDM信号におけるチャンネル間クロストークペナルティーの適応FIRフィルタによる抑圧</title>
+      <link>https://hanchangyo.github.io/publication/hiraoka-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/hiraoka-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of channel misalignment of time-interleaved DAC on sensitivity degradation in coherent receivers</title>
+      <link>https://hanchangyo.github.io/publication/han-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Area Reduction of Millimeter-Wave CMOS Amplifier Using Narrow Transmission Line</title>
+      <link>https://hanchangyo.github.io/publication/tsukui-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/tsukui-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Transmission Line Modeling Using Different De-embedding Methods</title>
+      <link>https://hanchangyo.github.io/publication/minami-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/minami-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ミリ波帯電力増幅器に向けた伝送線路構造の最適化</title>
+      <link>https://hanchangyo.github.io/publication/tsukui-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/tsukui-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMOSプロセスにおける高周波向け配線構造の検討</title>
+      <link>https://hanchangyo.github.io/publication/han-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/publication/han-2010/</guid>
+      <description></description>
     </item>
     
   </channel>

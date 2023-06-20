@@ -5,7 +5,7 @@
     <link>https://hanchangyo.github.io/project/</link>
       <atom:link href="https://hanchangyo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,24 +13,30 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://hanchangyo.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hanchangyo.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>TelemetRing</title>
+      <link>https://hanchangyo.github.io/project/telemetring/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/telemetring/</guid>
+      <description>&lt;p&gt;A wireless ring-shaped keyboard supports text entry by detecting finger typing. However, the previous wireless ring-shaped keyboard requires batteries attached to each ring device to empower the active components (e.g., wireless communication module). The bulky batteries not only make the ring uncomfortable to wear, but also require the user to charge them periodically. Thus, we present a batteryless and wireless ring-shaped keyboard using passive inductive telemetry that wirelessly senses the passive sensor coil with the inductively coupled reader coil.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://hanchangyo.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hanchangyo.github.io/project/external-project/</guid>
-      <description></description>
+      <title>PneuModule</title>
+      <link>https://hanchangyo.github.io/project/pneumodule/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/pneumodule/</guid>
+      <description>&lt;p&gt;We present PneuModule, a tangible interface platform that enables users to reconfigure physical controls on pressure-sensitive touch surfaces using pneumatically-actuated inflatable pin arrays. PneuModule consists of a main module and extension modules. The main module is tracked on the touch surface and forwards continuous inputs from attached multiple extension modules to the touch surface. Extension modules have distinct mechanisms for user input, which pneumatically actuates the inflatable pins at the bottom of the main module through internal air pipes. The main module accepts multi-dimensional inputs since each pin is individually inflated by the corresponding air chamber. Also, since the extension modules are swappable and identifiable owing to the marker design, users can quickly customize the interface layout. We contribute to design details of inflatable pins and diverse pneumatic input control design examples for PneuModule. We also showcase the feasibility of PneuModule through a series of evaluations and interactive prototypes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ForceStamps</title>
+      <link>https://hanchangyo.github.io/project/forcestamps/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/forcestamps/</guid>
+      <description>&lt;p&gt;ForceStamps are fiducial markers for supporting rapid prototyping of physical control interfaces on pressure-sensitive touch surfaces. ForceStamps can be persistently tracked on surfaces along with the force information and other attributes. Designers without knowledge of electronics can rapidly prototype physical controls by attaching mechanisms to ForceStamps, while manipulating the haptic feedback with buffer materials. The created control widgets can be spatially configured on the touch surface to make an interface layout.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
