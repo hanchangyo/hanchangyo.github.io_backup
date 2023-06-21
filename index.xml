@@ -41,7 +41,7 @@
       <link>https://hanchangyo.github.io/project/icv/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://hanchangyo.github.io/project/icv/</guid>
-      <description>&lt;p&gt;Invisible screen-camera communication is promising in that it does not interfere with the video viewing experience. In the imperceptible color vibration method, which displays two colors of the same luminance alternately at high speed for each pixel, embedded information is decoded by taking the difference between distant frames on the time axis. Therefore, the interframe differences of the original video contents affect the decoding performance. In this study, we propose a decoding method which utilizes simultaneously captured images using a dual-camera smartphone with different exposure times. This allows taking the color difference between the frames that are close to each other on the time axis. The feasibility of this approach is demonstrated through several application examples.&lt;/p&gt;
+      <description>&lt;p&gt;Invisible screen-camera communication is promising in that it does not interfere with the video viewing experience. In the imperceptible color vibration method, which displays two colors of the same luminance alternately at high speed for each pixel, embedded information is decoded by taking the difference between two temporaly distant frames. We retrieve the hidden information on the screen with commercially available smartphone cameras.&lt;/p&gt;
 </description>
     </item>
     
@@ -164,6 +164,153 @@
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       <guid>https://hanchangyo.github.io/project/pneumodule/</guid>
       <description>&lt;p&gt;We present PneuModule, a tangible interface platform that enables users to reconfigure physical controls on pressure-sensitive touch surfaces using pneumatically-actuated inflatable pin arrays. PneuModule consists of a main module and extension modules. The main module is tracked on the touch surface and forwards continuous inputs from attached multiple extension modules to the touch surface. Extension modules have distinct mechanisms for user input, which pneumatically actuates the inflatable pins at the bottom of the main module through internal air pipes. The main module accepts multi-dimensional inputs since each pin is individually inflated by the corresponding air chamber. Also, since the extension modules are swappable and identifiable owing to the marker design, users can quickly customize the interface layout. We contribute to design details of inflatable pins and diverse pneumatic input control design examples for PneuModule. We also showcase the feasibility of PneuModule through a series of evaluations and interactive prototypes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3_overview.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3_base_impl.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3_pin_design.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3_track.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4_game.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4_toy.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4_toy.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -197,6 +344,90 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://hanchangyo.github.io/project/forcestamps/</guid>
       <description>&lt;p&gt;ForceStamps are fiducial markers for supporting rapid prototyping of physical control interfaces on pressure-sensitive touch surfaces. ForceStamps can be persistently tracked on surfaces along with the force information and other attributes. Designers without knowledge of electronics can rapidly prototype physical controls by attaching mechanisms to ForceStamps, while manipulating the haptic feedback with buffer materials. The created control widgets can be spatially configured on the touch surface to make an interface layout.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workshop_1&#34; srcset=&#34;
+               /project/forcestamps/IMG_6785-1024x683_hu9f703d98a1f39ebf43d88754e7b9cbf4_57333_3cadd6c615033032e2b0702b11efdc9a.webp 400w,
+               /project/forcestamps/IMG_6785-1024x683_hu9f703d98a1f39ebf43d88754e7b9cbf4_57333_6954b5cad460c2cd39837dd921436d0a.webp 760w,
+               /project/forcestamps/IMG_6785-1024x683_hu9f703d98a1f39ebf43d88754e7b9cbf4_57333_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hanchangyo.github.io/project/forcestamps/IMG_6785-1024x683_hu9f703d98a1f39ebf43d88754e7b9cbf4_57333_3cadd6c615033032e2b0702b11efdc9a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workshop_2&#34; srcset=&#34;
+               /project/forcestamps/IMG_6819-1024x683_hu653c655d657046123e459f97ad393453_59620_f841dc3d5ad5791f92ad5938c8f1cd47.webp 400w,
+               /project/forcestamps/IMG_6819-1024x683_hu653c655d657046123e459f97ad393453_59620_4c51b9ae33a8458199ad6a1b3b03a31b.webp 760w,
+               /project/forcestamps/IMG_6819-1024x683_hu653c655d657046123e459f97ad393453_59620_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hanchangyo.github.io/project/forcestamps/IMG_6819-1024x683_hu653c655d657046123e459f97ad393453_59620_f841dc3d5ad5791f92ad5938c8f1cd47.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workshop_1&#34; srcset=&#34;
+               /project/forcestamps/IMG_6834-1024x683_hue9fbaaaa8811a3827e23fc77d11a73ea_41748_4ee09e80e68afdfa7687a5b1516537b6.webp 400w,
+               /project/forcestamps/IMG_6834-1024x683_hue9fbaaaa8811a3827e23fc77d11a73ea_41748_4ff9968b5e0b3fd6ad0ae12d098455b0.webp 760w,
+               /project/forcestamps/IMG_6834-1024x683_hue9fbaaaa8811a3827e23fc77d11a73ea_41748_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hanchangyo.github.io/project/forcestamps/IMG_6834-1024x683_hue9fbaaaa8811a3827e23fc77d11a73ea_41748_4ee09e80e68afdfa7687a5b1516537b6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -321,6 +552,15 @@
     </item>
     
     <item>
+      <title>Radio-over-Fiber Systems</title>
+      <link>https://hanchangyo.github.io/project/rof/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/rof/</guid>
+      <description>&lt;p&gt;Cloud Radio Access Network (C-RAN) with radio-over-fiber transmission is a cellular network architecture that centralizes baseband processing in the cloud while transmitting the radio signals over optical fibers. The baseband processing, traditionally performed at each base station, is pooled in a central location, improving resource allocation and network performance. The radio components, called Remote Radio Heads (RRHs), remain distributed across the network&amp;rsquo;s cell sites. In this system, the radio signals are converted to optical signals and transmitted over fiber links from the central baseband unit to the RRHs, and vice versa. This approach allows for reduced power consumption, enhanced network agility, and is particularly apt for delivering the high data rates and low latencies required by advanced applications in next-generation networks such as 5G.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Demonstration of Mobile Fronthaul Test Bed Based on RoF Technology Supporting Two Frequency Assignments and 2✕2 MIMO Antennas</title>
       <link>https://hanchangyo.github.io/publication/cho-2015-a/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
@@ -374,6 +614,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://hanchangyo.github.io/publication/cho-2015/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Mode-Division-Multiplxed Optical Communication</title>
+      <link>https://hanchangyo.github.io/project/mdm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/mdm/</guid>
+      <description>&lt;p&gt;Mode-Division Multiplexed (MDM) optical communication is a cutting-edge technique that boosts the data-carrying capacity of optical fibers by utilizing multiple transverse modes within the fiber as distinct channels for data transmission. By encoding information onto different modes and transmitting them simultaneously, MDM enables the transfer of substantially more data through a single fiber, akin to having multiple lanes within a single optical highway, thus addressing the growing demand for bandwidth and data throughput in communication networks. We developed and tested various MDM techniques.&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OPTCOMM | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/optcomm/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/optcomm/index.xml" rel="self" type="application/rss+xml" />
+    <description>OPTCOMM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>OPTCOMM</title>
+      <link>https://hanchangyo.github.io/tag/optcomm/</link>
+    </image>
+    
+    <item>
+      <title>Radio-over-Fiber Systems</title>
+      <link>https://hanchangyo.github.io/project/rof/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/rof/</guid>
+      <description>&lt;p&gt;Cloud Radio Access Network (C-RAN) with radio-over-fiber transmission is a cellular network architecture that centralizes baseband processing in the cloud while transmitting the radio signals over optical fibers. The baseband processing, traditionally performed at each base station, is pooled in a central location, improving resource allocation and network performance. The radio components, called Remote Radio Heads (RRHs), remain distributed across the network&amp;rsquo;s cell sites. In this system, the radio signals are converted to optical signals and transmitted over fiber links from the central baseband unit to the RRHs, and vice versa. This approach allows for reduced power consumption, enhanced network agility, and is particularly apt for delivering the high data rates and low latencies required by advanced applications in next-generation networks such as 5G.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mode-Division-Multiplxed Optical Communication</title>
+      <link>https://hanchangyo.github.io/project/mdm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/mdm/</guid>
+      <description>&lt;p&gt;Mode-Division Multiplexed (MDM) optical communication is a cutting-edge technique that boosts the data-carrying capacity of optical fibers by utilizing multiple transverse modes within the fiber as distinct channels for data transmission. By encoding information onto different modes and transmitting them simultaneously, MDM enables the transfer of substantially more data through a single fiber, akin to having multiple lanes within a single optical highway, thus addressing the growing demand for bandwidth and data throughput in communication networks. We developed and tested various MDM techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
