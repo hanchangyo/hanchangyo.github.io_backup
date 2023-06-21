@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | Changyo Han</title>
+    <link>https://hanchangyo.github.io/tag/others/</link>
+      <atom:link href="https://hanchangyo.github.io/tag/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Others</title>
+      <link>https://hanchangyo.github.io/tag/others/</link>
+    </image>
+    
+    <item>
+      <title>Innovation Network Analysis</title>
+      <link>https://hanchangyo.github.io/project/patent/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/patent/</guid>
+      <description>&lt;p&gt;Recently, the concept of the global innovation network (GIN) has been emphasized in view of increasing joint international research within regional economies as enabled by drastic changes in technology. However, insights gained from quantitative analysis of GINs are lacking. This study empirically investigated the GINs among major cities in East Asia by using data on patented co-inventions. This included an analysis of the factors that influence networks in the formation of international research collaborations in East Asia, and its interplay with geographical proximity. The results of the analysis suggest that there is a system of mesoscale international networks such as those in East Asia between GINs and national innovation systems. Our findings suggest that future policy should be more supportive of international innovation networks, especially in East Asia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
