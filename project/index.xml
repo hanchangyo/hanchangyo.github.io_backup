@@ -5,12 +5,51 @@
     <link>https://hanchangyo.github.io/project/</link>
       <atom:link href="https://hanchangyo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanchangyo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://hanchangyo.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Design and Fabrication for Dynamic Color-Changing on Curved 3D-Printed Surfaces</title>
+      <link>https://hanchangyo.github.io/project/colorchange/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/colorchange/</guid>
+      <description>&lt;p&gt;Recent studies have presented various methods for changing the color of objects using thermochromic materials. However, many methods face challenges related to heat sources, leading to limitations in object shape, size, and the speed of color change. In this paper, we propose a novel dynamic and rapid color-changing method designed for curved 3D-printed surfaces. We explored the use of Carbo e-Therm, a carbon-based electrically-conductive heating paint, as a novel means of joule heating for color change. We developed a design and fabrication method for color change that integrates specific paint application techniques, electrode configurations, and pretreatment of base materials. This approach enables rapid color changes using thermochromic materials, across diverse 3D-printed substrates and curved surfaces. Furthermore, this work operates as a self-contained system, eliminating the need for bulky external equipment and allowing the object itself to change color. This paper details the proposed method and presents several design examples.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./w1000-teaser1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>corobos</title>
+      <link>https://hanchangyo.github.io/project/corobos/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/corobos/</guid>
+      <description>&lt;p&gt;corobos is a proof of concept research for the design that enables two-wheeled mobile robots to cooperatively transition between perpendicular surfaces.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Imperceptible Screen-Camera Communication</title>

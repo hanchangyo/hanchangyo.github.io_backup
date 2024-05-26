@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hanchangyo.github.io/project/colorchange/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanchangyo.github.io/project/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanchangyo.github.io/tags/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanchangyo.github.io/tag/tuis/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanchangyo.github.io/project/corobos/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanchangyo.github.io/tag/robots/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hanchangyo.github.io/publication-type/1/</loc>
     <lastmod>2023-06-20T14:08:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -36,14 +60,6 @@
   </url><url>
     <loc>https://hanchangyo.github.io/tag/mediatech/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanchangyo.github.io/project/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanchangyo.github.io/tags/</loc>
-    <lastmod>2023-06-16T16:03:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanchangyo.github.io/</loc>
@@ -163,10 +179,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanchangyo.github.io/project/pneumodule/</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanchangyo.github.io/tag/tuis/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
