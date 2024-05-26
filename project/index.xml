@@ -43,6 +43,16 @@
     </item>
     
     <item>
+      <title>AIR-range Plus</title>
+      <link>https://hanchangyo.github.io/project/air-range-plus/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/air-range-plus/</guid>
+      <description>&lt;p&gt;In AIR-range Plus, both real objects and the light source driving devices use small mobile robots. This allows users to interact with mid-air images via real objects placed on a table. We implemented an application where users can generate background mid-air images along with mid-air image characters on a table, and we conducted an exhibition and examination of this application.&lt;/p&gt;
+&lt;!-- ![](./w1000-teaser1.png) --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>corobos</title>
       <link>https://hanchangyo.github.io/project/corobos/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
