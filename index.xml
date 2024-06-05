@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>LattiSense</title>
+      <link>https://hanchangyo.github.io/project/lattisense/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanchangyo.github.io/project/lattisense/</guid>
+      <description>&lt;p&gt;Recently, soft and deformable materials have become popular as sensors for their applicability in daily objects. Although studies have been conducted on existing conductive soft materials, problems such as a lack of design freedom regarding softness, shape, and deformation, as well as wiring complexity remain. Here, we propose a novel soft sensor called LattiSense, fabricated using an FDM 3D printer. By arranging conductive and non-conductive flexible filaments in a lattice structure, we created a soft sensor designed with a high degree of freedom in terms of hardness, shape, deformation, and wiring paths. By modifying the lattice parameters, multiple modes of deformation can be designed. The softness can also be locally customized by adjusting lattice parameters. In this paper, we present the design and implementation of LattiSense and investigate its characteristics with respect to several parameters. We also demonstrate design software and several application scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>corobos</title>
       <link>https://hanchangyo.github.io/project/corobos/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
